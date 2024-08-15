@@ -1,16 +1,9 @@
-# Live 
-https://form-wave-amber.vercel.app/
-# TestUser
-Username : gincode18test
-Password : Spark@123*
+
 
 # FormWave - The Ultimate Form Builder App
 
 FormWave is a cutting-edge form builder application that empowers you to create stunning, responsive forms with ease. Built on Next.js 13, Dnd-kit, and a host of other technologies, FormWave simplifies the process of form creation and data collection.
 
-## Get a glimpse of NextChat in action by clicking on the thumbnail below to watch the demo video:
-
-[![Watch the video]()](https://github.com/gincode18/FormWave/assets/91776192/83c09643-9588-49c2-a8a6-e67b58e5d4d1)
 
 ## Features
 
