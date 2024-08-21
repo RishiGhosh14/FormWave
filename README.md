@@ -39,8 +39,3 @@ FormWave is a cutting-edge form builder application that empowers you to create 
 
 - **Prisma as ORM:** Efficient and developer-friendly database operations.
 
-## Getting Started
-
-To get started with FormWave, follow these simple steps:
-
-1. **Clone the repository:**
